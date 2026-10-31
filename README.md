@@ -12,10 +12,4 @@ My first machine learning project. It predicts who will win the next Formula 1 G
 
 **Limits:** Six test races is a tiny sample, so the score is a rough guide. The model has no qualifying lap-time gap, practice pace, weather or strategy data.
 
-### Predictions
-
-mexico_pre_quali: before qualifying, so grid position is missing.
-
-mexico_post_quali: added after qualifying.
-
-Next: qualifying gap, practice long-run pace, walk-forward validation, XGBoost.
+**Improvements:** qualifying gap, practice long-run pace, walk-forward validation, XGBoost.
