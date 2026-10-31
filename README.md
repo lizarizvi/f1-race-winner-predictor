@@ -15,5 +15,7 @@ My first machine learning project. It predicts who will win the next Formula 1 G
 ### Predictions
 
 mexico_pre_quali: before qualifying, so grid position is missing.
+
 mexico_post_quali: added after qualifying.
+
 Next: qualifying gap, practice long-run pace, walk-forward validation, XGBoost.
